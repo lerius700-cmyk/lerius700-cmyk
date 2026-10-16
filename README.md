@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy miguel 👋
 
-<!--
-**lerius700-cmyk/lerius700-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst junior + Game dev (pygame for now) + music producer.
+proyectos de inicio a fin
 
-Here are some ideas to get you started:
+##  donde encontrarme
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Data Science @ TripleTen** (bootcamp, 2025–2026)
+- [Void-Hunter](https://github.com/lerius700-cmyk/Void-Hunter) — mi juego 2D (v1.4.0 publicado)
+
+##  Stack
+Python · SQL · pandas · Streamlit · Pygame 
+
+##  Mi música
+
+SPOTIFY
+https://open.spotify.com/artist/0nqfYo03VormmBWC8TxxAn?si=Pl2sy80KQUajfwEf9XVmUw
+
+SOUNDCLOUD
+https://soundcloud.com/leriusdj
+
+##   Contacto
+leriusofficial@gmail.com
