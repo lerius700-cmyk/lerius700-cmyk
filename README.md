@@ -1,6 +1,6 @@
-# Hola, soy Miguel
+# Hola, soy Lerius
 
-**Científico de datos en formación** (TripleTen Data Science) con background en producción musical.
+**Miguel Angel Vera Fajardo** — **Científico de datos en formación** (TripleTen Data Science) con background en producción musical.
 Leo una forma de onda como quien lee un histograma: en la música para extraer patrones, en los datos para
 convertirlos en decisiones.
 
